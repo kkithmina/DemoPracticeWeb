@@ -1,5 +1,36 @@
 body{
-  background-color: red;
-  background: fixed;
+  background-color:#FF471A;
+  margin: 0px;
+  padding: 0px;
+
+}
+h1{
+  color: white;
+  text-align: center;
+  font-family:STXihei;
+  font-size:350%;
+}
+p{
+  color: white;
+  font-size: large;
+  margin-left: 300px;
+  padding-bottom: 50px;
+}
+.type1{
+  position: absolute;
+  top: 40%;
+  left: 12%;
+
+}
+.type2{
+  position: absolute;
+  top: 40%;
+  left: 38%;
+
+}
+.type3{
+  position: absolute;
+  top: 40%;
+  right: 11%;
 
 }
