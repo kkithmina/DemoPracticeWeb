@@ -1,5 +1,32 @@
-body{
-  background-color: red;
-  background: fixed;
+
+  h1{
+    color:white;
+    font-size:400%;
+    text-align: center;
+   
 
 }
+.h1 {
+   font-family: "Monospace", Lucida Console;
+ }
+ 
+p{
+     text-align: justify;
+     color: white;
+     font-size: 18pt;
+       margin-top: 50px;
+       margin-bottom: 100px;
+       margin-right: 200px;
+       margin-left: 200px;
+   }
+.p1{
+
+font-family: "Monospace", Lucida Console;
+
+} 
+
+img {
+box-shadow: 25px 20px 10px 0px rgb(0 0 0 / 50%);
+  
+ }
+s
